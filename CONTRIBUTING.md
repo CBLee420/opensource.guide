@@ -56,7 +56,7 @@ Once you have that set up, run:
     script/bootstrap
     script/server
 
-…and open http://localhost:4000 in your web browser.
+…and open https://localhost:4000 in your web browser.
 
 ## Community
 
